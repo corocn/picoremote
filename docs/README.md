@@ -8,7 +8,8 @@ PicoRuby (R2P2) 向けのデプロイ/REPL/デバッグ支援ツール `picoremo
 
 - [`mpremote.md`](./mpremote.md) — mpremote の機能・CLI・アーキテクチャ・プロトコル（Raw REPL, Raw Paste, FS Hook）
 - [`picoruby-r2p2.md`](./picoruby-r2p2.md) — PicoRuby / R2P2 のシェル構造、USB CDC、PicoModem (RBTP) プロトコル
-- [`design-considerations.md`](./design-considerations.md) — picoremote の設計方針メモ（mpremote との差分、採用/見送り判断）
+- [`design-considerations.md`](./design-considerations.md) — picoremote の設計方針（言語、CLI、トランスポート層、各機能の選択論）
+- [`roadmap.md`](./roadmap.md) — 実装順、依存関係、フェーズ分け、ブロッカー TODO
 
 ## 参考リンク
 
